@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/coreyg/git/bento/scripts'
+let g:netrw_dirhist_2='/home/coreyg/git/asf-work/asf-puppet/modules/svngit2jira/files/config'
+let g:netrw_dirhist_3='/home/coreyg/git/asf-work/asf-puppet/modules/gitwcsub/files/config'
+let g:netrw_dirhist_4='/home/coreyg/git/asf-work/asf-svn/trunk/puppet/hosts/bloodhound-vm2/manifests'
